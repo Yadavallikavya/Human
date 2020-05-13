@@ -2,3 +2,6 @@ details of humanbeings
 
 Name : Kavya
 Gender : Female
+Blood group : A+
+
+
